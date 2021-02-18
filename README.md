@@ -42,12 +42,10 @@ I'm a Js Developer, currently in school
 ➡️ [more videos...](https://www.youtube.com/channel/UC8kYYf-rv1hEw-Rph257AQg)
 
 ---
-
----
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Zofux's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Zofux&show_icons=true&hide_border=true?theme=radical" />
+  <img align="left" alt="Zofux's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Zofux&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
