@@ -1,7 +1,7 @@
 ### Hi there, I'm Zofux 👋
 I'm a Js Developer, currently in school
 
-- 🌱 I’m currently working on a large scale discord bot
+- 🌱 I’m currently learning Java!
 - 👯 I’m looking to learn React.js
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play basketball and video games
